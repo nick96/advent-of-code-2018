@@ -1,0 +1,10 @@
+[package]
+name = "advent_of_code_2018"
+version = "0.1.0"
+authors = ["Nick Spain <nicholas.spain96@gmail.com>"]
+
+[[bin]]
+name="day-1"
+path="src/day-1/bin/main.rs"
+
+[dependencies]
