@@ -1,7 +1,9 @@
 // Day 1: Chronal Calibration
 //
 // Determine the resulting frequency after all changes in frequency
-// have been applied, starting from a frequency of zero.
+// have been applied, starting from a frequency of zero. Then
+// determine the first frequency repeated by the given list of
+// frequenct deltas.
 use std::collections::HashSet;
 use std::fs::File;
 use std::io::prelude::*;
