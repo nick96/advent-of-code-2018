@@ -7,4 +7,8 @@ authors = ["Nick Spain <nicholas.spain96@gmail.com>"]
 name="day-1"
 path="src/day-1/bin/main.rs"
 
+[[bin]]
+name="day-2"
+path="src/day-2/bin/main.rs"
+
 [dependencies]
